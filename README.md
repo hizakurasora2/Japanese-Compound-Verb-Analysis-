@@ -40,10 +40,8 @@
 
 ```
 ├── README.md
-├── data/
-│   └── BCCWJ_compound_verb_analysis_data    # 集計済み分析データ
-├── notebooks/
-    └── chive_compound_verb_embeddings_analysis.py             # 分析コード（Python）
+├── BCCWJ_compound_verb_analysis_data    # 集計済み分析データ 
+├── chive_compound_verb_embeddings_analysis.py             # 分析コード（Python）
 
 ```
 
