@@ -43,7 +43,7 @@
 ├── data/
 │   └── BCCWJ_compound_verb_analysis_data    # 集計済み分析データ
 ├── notebooks/
-    └── analysis.py             # 分析コード（Python）
+    └── chive_compound_verb_embeddings_analysis.py             # 分析コード（Python）
 
 ```
 
